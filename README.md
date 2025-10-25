@@ -1,2 +1,2 @@
-# SAM25DSeg
-repo of SAM25D for medical image segmentation
+# SegmenAutoModel
+repo of SegmenAutoModel for medical image segmentation
